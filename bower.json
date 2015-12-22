@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-resource": "1.4.8",
+    "angular-sanitize": "1.4.8",
+    "angular-route": "1.4.8",
+    "angular-ui-router": "0.2.15",
+    "angular-ui-select": "0.11.2",
+    "angular-ui-utils": "0.2.3",
+    "bootstrap": "3.3.4",
+    "jquery": "2.1.4",
+    "lodash": "3.8.0",
+    "system.js": "0.19.9",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "rxjs": "4.0.7"
+  },
+  "resolutions": {
+    "angular": "1.4.8",
+    "jquery": "2.1.4",
+    "bootstrap": "3.3.4"
+  }
+}

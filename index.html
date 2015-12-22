@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./app/less/hello.less" />
+  </head>
+  <body>
+    <hello>Loading...</hello>
+    <script src="./bower_components/system.js/dist/system.js"></script>
+    <script src="./app/config.js"></script>
+    <script>
+      System.import('boot.js').then(null, console.error.bind(console));
+    </script>
+  </body>
+</html>
