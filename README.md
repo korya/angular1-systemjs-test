@@ -15,3 +15,9 @@ npm install
 bower install
 npm start
 ```
+
+### References
+
+ - http://martinmicunda.com/2015/02/09/how-to-start-writing-apps-with-es6-angular-1x-and-jspm/
+ - http://www.morrissinger.com/using-angular-1-x-with-jspm-systemjs-and-ecmascript-6/
+ - https://github.com/systemjs/systemjs/blob/master/docs/config-api.md
